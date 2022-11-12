@@ -1,0 +1,12 @@
+
+name        = "gallery-hugo"
+license     = "MIT"
+licenselink = "https://github.com/redhcp/gallery-hugo/blob/main/LICENSE"
+description = "Fast gallery suitable for lots of images."
+homepage    = "https://github.com/redhcp/gallery-hugo"
+demosite    = "https://staticbattery.com/"
+tags        = ["Gallery", "Responsive"]
+min_version = "0.90.0"
+[author]
+  name     = "redhcp"
+  homepage = "https://github.com/redhcp"
