@@ -1,7 +1,7 @@
-> See this [Gallery Deluxe Starter](https://github.com/bep/gallerydeluxe_starter) for a fast route to get this up and running.
+>See this [Gallery Deluxe Starter](https://github.com/bep/gallerydeluxe_starter) for a fast route to get this up and running.
 
-- [Configuration](#configuration)
-- [Credits](#credits)
+* [Configuration](#configuration)
+* [Credits](#credits)
 
 A Hugo Module to show a photo gallery. It's very fast/effective, especially if you have lots of images on display.
 
@@ -12,6 +12,7 @@ This theme is what you see on [staticbattery.com](https://staticbattery.com/) wh
 ## Configuration
 
 The recommended way to add this to your site is to include it as a Hugo Module. See [Gallery Deluxe Starter](https://github.com/bep/gallerydeluxe_starter) for a starter template. Another example is [staticbattery.com](https://github.com/bep/staticbattery.com).
+
 
 ### Params
 
@@ -29,6 +30,7 @@ The recommended way to add this to your site is to include it as a Hugo Module. 
         enable_exif = false
 ```
 
+
 ## Credits
 
-Credit to Dan Schlosser for the [Pig](https://github.com/schlosser/pig.js) JS library.
+Credit to Dan Schlosser for the [Pig](https://github.com/schlosser/pig.js) JS library. 
